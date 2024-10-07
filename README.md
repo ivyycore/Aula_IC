@@ -7,7 +7,7 @@ Requisitos do jogo:
  * Controlos usados: Rato
 ## 
 
-![A criatura](imagens\caozinho.jpg)
+![A criatura](imagens/caozinho.jpg)
 
 ## Download
 [Faz download aqui do jogo fixe](https://en.wikipedia.org/wiki/Video_game)
